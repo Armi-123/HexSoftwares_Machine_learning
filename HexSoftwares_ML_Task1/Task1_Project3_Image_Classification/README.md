@@ -281,6 +281,4 @@ The model effectively learns image features and classifies images into multiple 
 
 **Armi Sherathiya**
 
-Machine Learning Intern – HexSoftwares
-
-2025
+Machine Learning Project – HexSoftwares
