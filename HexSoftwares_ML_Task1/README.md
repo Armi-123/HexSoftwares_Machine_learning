@@ -201,3 +201,9 @@ This task successfully demonstrates the implementation of Machine Learning and D
 3. Image Classification using Convolutional Neural Networks.
 
 These projects provide practical experience in building intelligent systems capable of analyzing text, recommending content, and recognizing images.
+
+## 👨‍💻 Author
+
+**Armi Sherathiya**
+
+Machine Learning Project – HexSoftwares
