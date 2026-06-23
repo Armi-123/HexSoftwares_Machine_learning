@@ -210,8 +210,6 @@ This project highlights how Machine Learning can assist medical professionals in
 
 ---
 
-
-
 ## Author
 
 **Armi Sherathiya**
