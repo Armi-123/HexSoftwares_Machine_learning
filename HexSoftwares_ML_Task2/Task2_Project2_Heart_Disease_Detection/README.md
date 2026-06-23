@@ -210,10 +210,10 @@ This project highlights how Machine Learning can assist medical professionals in
 
 ---
 
+
+
 ## Author
 
 **Armi Sherathiya**
 
-HexSoftwares Machine Learning Internship
-
-2025
+HexSoftwares Machine Learning Project
