@@ -218,6 +218,4 @@ This project highlights the importance of recommendation systems in modern enter
 
 **Armi Sherathiya**
 
-HexSoftwares Machine Learning Internship
-
-2025
+HexSoftwares Machine Learning Project
