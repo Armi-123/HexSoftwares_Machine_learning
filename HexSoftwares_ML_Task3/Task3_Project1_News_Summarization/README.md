@@ -229,6 +229,4 @@ By utilizing text preprocessing, word frequency analysis, and sentence ranking, 
 
 **Armi Sherathiya**
 
-HexSoftwares Machine Learning Internship
-
-2025
+HexSoftwares Machine Learning project
