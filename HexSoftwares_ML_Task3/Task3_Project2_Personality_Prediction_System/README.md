@@ -258,6 +258,4 @@ This project highlights the growing role of AI and NLP in modern human resource 
 
 **Armi Sherathiya**
 
-HexSoftwares Machine Learning Internship
-
-2025
+HexSoftwares Machine Learning Project
