@@ -454,7 +454,7 @@ The repository showcases end-to-end Machine Learning development, from preproces
 
 **B.Tech Computer Engineering**
 
-**HexSoftwares Machine Learning Internship**
+**HexSoftwares Machine Learning Projects**
 
 ---
 
