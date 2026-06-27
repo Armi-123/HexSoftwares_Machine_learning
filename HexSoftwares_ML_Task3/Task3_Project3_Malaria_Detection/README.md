@@ -236,6 +236,4 @@ By analyzing extracted blood cell features, the model provides reliable predicti
 
 **Armi Sherathiya**
 
-HexSoftwares Machine Learning Internship
-
-2025
+HexSoftwares Machine Learning Project
