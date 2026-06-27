@@ -13,6 +13,7 @@ This project predicts malaria infection using Machine Learning algorithms traine
 - Matplotlib
 - Seaborn
 
+
 ## Algorithm
 
 - Random Forest Classifier
